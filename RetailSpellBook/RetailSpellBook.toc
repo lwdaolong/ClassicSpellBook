@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: Retail Spell Book
+## Notes: Displays all spells available to your class and race
+## Author: lwdaolong
+## Version: 1.0
+
+RetailSpellBook.lua
